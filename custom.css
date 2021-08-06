@@ -2,15 +2,133 @@ body {
     background-image: url("papertexture4.jpg");
 }
 
-#angelspot {
-	background-image: url("angel.png") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+#first-row {
+	margin-top: 100px;
+}
+
+#second-row {
+	margin-top: 60px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
+
+#third-row {
+	margin-top: 30px;
+	background-color: #fff;
+	text-align: center;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 60px;
+	line-height: 58px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	font-variant: small-caps;
+	letter-spacing: 3px;
+}
+
+#fourth-row {
+	background-color: #fff;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 20px;
+	padding-bottom: 50px;
 
 }
 
-#first-row {
-	margin-top: 100px;
+.dropcap {
+    float: left;
+    font-size: 5em;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: -30px;
+    margin-bottom: -53px;
+    color: #ba0c28;
+
+}
+
+#fifth-row {
+	background-color: #000;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 40px;
+	text-align: center;
+	color: #ba0c28;
+	padding-top: 30px;
+}
+
+#sixth-row {
+	background-color: #000;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 24px;
+	color: #fff;
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
+
+#margin {
+	margin-right: 27px;
+}
+
+.red {
+	color: #ba0c28;
+}
+#black {
+	background-color: #000;
+	height: 90px;
+	color: #fff;
+	margin-bottom: 100px;
+	text-align: center;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 44px;
+	padding-top: 15px;
+	border-radius: 15px;
+}
+nav, .navbar-brand, a.nav-link {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 24px;
+	color: #fff;
+}
+
+.navbar-brand {
+	margin-left: 120px;
+	margin-right: 100px;
+}
+
+li.nav-item {
+	color: #fff;
+	margin-right: 140px;
+}
+
+#scrollspyHeading1 {
+	padding-top: 250px;
+    margin-top: -250px;
+}
+
+#scrollspyHeading2 {
+
+}
+
+img.calendar {
+	display: block;
+	margin: auto;
+	width: 80%;
+	margin-top: 90px;
+	margin-bottom: 90px;
+	box-shadow: 10px 10px 3px #ccc;
+
+}
+
+#thumbnails {
+	margin-top: 90px;
+}
+
+#thumbnails img {
+	margin-bottom: 30px;
+}
+
+#eighth-row {
+	background-color: #000;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 14px;
+	color: #fff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
 }
