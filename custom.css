@@ -7,7 +7,7 @@ body {
 }
 
 #second-row {
-	margin-top: 60px;
+	margin-top: 100px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
@@ -49,7 +49,7 @@ body {
 	font-family: 'Sorts Mill Goudy', serif;
 	font-size: 40px;
 	text-align: center;
-	color: #ba0c28;
+	color: #f40028;
 	padding-top: 30px;
 }
 
@@ -67,19 +67,27 @@ body {
 }
 
 .red {
-	color: #ba0c28;
+	color: #f40028;
 }
-#black {
-	background-color: #000;
-	height: 90px;
-	color: #fff;
-	margin-bottom: 100px;
-	text-align: center;
-	font-family: 'Sorts Mill Goudy', serif;
-	font-size: 44px;
-	padding-top: 15px;
-	border-radius: 15px;
+
+.btn-primary {
+    color: #fff;
+    background-color: #f40028;
+    border-color: #f40028;
+    font-size: 30px;
+    font-family: 'Sorts Mill Goudy', serif;
+    margin-bottom: 70px;
 }
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+    font-size: 30px;
+    font-family: 'Sorts Mill Goudy', serif;
+    margin-bottom: 70px;
+}
+
 nav, .navbar-brand, a.nav-link {
 	font-family: 'Sorts Mill Goudy', serif;
 	font-size: 24px;
@@ -96,12 +104,16 @@ li.nav-item {
 	margin-right: 140px;
 }
 
-#scrollspyHeading1 {
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+#about {
 	padding-top: 250px;
     margin-top: -250px;
 }
 
-#scrollspyHeading2 {
+#seethecalendar {
 
 }
 
@@ -131,4 +143,11 @@ img.calendar {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	text-align: center;
+}
+
+p.info {
+	text-align: center;
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 22px;
+
 }
