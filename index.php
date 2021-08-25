@@ -120,9 +120,7 @@
 	<div class="row">
 		<div class="col-sm-4"></div>
 		<div class="col-sm-4">
-			<div class="d-grid gap-2">
 				<a class="btn btn-primary" href="https://shop.fsj.org/Anno-Domini-2022-The-St-James-Calendar-of-the-Christian-Year_p_257.html" role="button">ORDER TODAY! Only $15.95</a>
-			</div>
 			<p class="info">&#8212;<em>Bulk pricing available <br />&#8212; Calendar ships in mid-September</em></p>
 		</div>
 		<div class="col-sm-4"></div>
