@@ -130,7 +130,7 @@
 
 	<div class="row" id="eighth-row">
 		<div class="col-sm-12">
-			<p>Copyright © 2021 The Fellowship of St. James, Chicago, IL 60641<br />The content and arrangements of this calendar are copyrighted and may not be reproduced in any form without written permission of the publisher. All rights reserved.</p>
+			<p>Copyright © 2022 The Fellowship of St. James, Chicago, IL 60641<br />The content and arrangements of this calendar are copyrighted and may not be reproduced in any form without written permission of the publisher. All rights reserved.</p>
 		</div>
 	</div>
 
